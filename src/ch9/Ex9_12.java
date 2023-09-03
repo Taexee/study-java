@@ -9,5 +9,4 @@ public class Ex9_12 {
 			System.out.println(getRand(1, -3));
 		}
 	}
-
 }
